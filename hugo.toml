@@ -1,10 +1,10 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://charuka-dilshan.github.io"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "My Computer Science Journey"
+title = "Charuuu..^_^"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 locale = "en"
@@ -58,13 +58,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   gitRepo = ""
   fingerprint = ""
   dateFormat = "2006-01-02"
-  title = "My Computer Science Journey"
+  title = "Charuuu..^_^"
   description = "Tracking my academic progress, software projects, and growth."
   images = ["/logo.png"]
 
 # Author config
   [params.author]
-    name = "Charuka Dilshan"
+    name = "Charuuu..^_^"
     email = ""
     link = ""
 
@@ -74,7 +74,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     mobileMode = "auto"
     [params.header.title]
       logo = ""
-      name = "Charuka's Blog"
+      name = "Charuuu.. ^_^'s Blog"
       pre = ""
       post = ""
       typeit = false
@@ -133,8 +133,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       gravatarEmail = ""
-      avatarURL = ""
-      title = "Hi, I'm Charuka Dilshan"
+      avatarURL = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpwcjBqdWwxMjZwNzJra3h5YWx6M2oxeGwxbTR6ZjcxcHllbW5naiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jFgrtMxUJhQXfLGBXR/giphy.gif"
+      title = "Hi, I'm Charuuu.. ^_^"
       subtitle = "Computer Science Undergraduate | Building & Learning in Public"
       typeit = true
       social = true
