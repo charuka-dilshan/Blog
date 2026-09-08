@@ -1,8 +1,8 @@
 ---
 title: "Mastering Multimedia Systems & Signals (Lecture 02)"
 subtitle: "An exhaustive study guide covering multimedia system characteristics, desirable hardware features, components, and the core differences between analog and digital signals."
-date: 2026-09-09T02:40:00+05:30
-lastmod: 2026-09-09T02:40:00+05:30
+date: 2026-08-20T01:00:00+05:30
+lastmod: 2026-08-20T01:00:00+05:30
 draft: false
 author: "Charuka Dilshan"
 authorLink: ""
